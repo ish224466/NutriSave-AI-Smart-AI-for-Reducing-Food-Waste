@@ -40,7 +40,7 @@ Ensure the following prerequisites are installed before running the application:
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/zeeshanibrarali/FoodShare
+git clone https://github.com/ish224466/NutriSave-AI-Smart-AI-for-Reducing-Food-Waste
 cd FoodShare
 cd mern
 npm install
